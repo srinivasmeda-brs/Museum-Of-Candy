@@ -1,6 +1,7 @@
 body {
      background-color: #ffe3df;
      font-family:'Nuntio',sans-serif;
+     overflow-x:hidden
 }
 
 #mainNavbar{
