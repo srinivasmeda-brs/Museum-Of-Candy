@@ -1,0 +1,41 @@
+body {
+     background-color: #ffe3df;
+     font-family:'Nuntio',sans-serif;
+}
+
+#mainNavbar{
+     font-size:1.5rem;
+     font-weight:100;
+}
+
+#mainNavbar .navbar-brand{
+     color:#EA1C2C;
+}
+
+
+#mainNavbar .nav-link{
+     color:white;
+}
+#mainNavbar .nav-link:hover{
+     color:#EA1C2C;
+}
+
+
+
+#heading h1{
+     font-size:4rem;
+     font-weight:100;
+     color:white;
+}
+@media  screen and (max-width:1200px) {
+     #heading h1{
+          font-size:3rem;
+     }
+}
+
+#heading h1 span{
+     color: #EA1C2C;
+}
+h2, p { 
+     color:#ba575f;
+}
